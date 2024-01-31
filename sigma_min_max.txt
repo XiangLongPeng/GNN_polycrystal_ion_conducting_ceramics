@@ -1,0 +1,2 @@
+(sigma_11, sigma_22, sigma_12)_min: 0, 0,-0.25 
+(sigma_11, sigma_22, sigma_12)_max: 1, 1, 0.25 
